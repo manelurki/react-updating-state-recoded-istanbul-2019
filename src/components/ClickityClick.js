@@ -15,9 +15,7 @@ export default class ClickityClick extends Component {
         }
     })
     } 
-          //          hasBeenClicked:true
-
-       // console.log(this.state.hasBeenClicked);
+   
 
     render() {
         return (
